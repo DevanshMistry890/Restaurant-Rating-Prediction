@@ -1,0 +1,239 @@
+name,onlineorder,booktable,location,cuisines,cost,type,city,Mean Rating
+Rs Shiv Sagar,FALSE,FALSE,Basavanagudi,North Indian Chinese South Indian Fast Food Juices,450,Dineout,Banashankari,38
+Pramukh Family Restaurant,FALSE,FALSE,Basavanagudi,North Indian Chinese Mughlai,700,Dineout,Banashankari,371
+Chaatimes,TRUE,FALSE,Basavanagudi,Street Food Fast Food,200,Dineout,Banashankari,34
+Vybhava,FALSE,FALSE,Jayanagar,South Indian North Indian,250,Dineout,Banashankari,358
+Shree Venkateshwara North Karnataka Hotel,FALSE,FALSE,Basavanagudi,South Indian,200,Dineout,Banashankari,384
+Harshi Super Sandwich,FALSE,FALSE,Basavanagudi,Fast Food Street Food,150,Dineout,Banashankari,358
+Belly Squad Food Truck,FALSE,FALSE,South Bangalore,Chinese Rolls Biryani Momos,300,Dineout,Banashankari,358
+Jcubez,FALSE,TRUE,Banashankari,Finger Food,13,Drinks  nightlife,Banashankari,358
+Gustoes Beer House,FALSE,FALSE,Banashankari,Continental Italian Mexican North Indian Chinese Steak,12,Drinks  nightlife,Banashankari,397
+Vi RaS Bar And Restaurant,FALSE,FALSE,Banashankari,South Indian North Indian Chinese,800,Drinks  nightlife,Banashankari,294
+Darbar,FALSE,FALSE,Banashankari,North Indian Chinese,800,Drinks  nightlife,Banashankari,255
+Soho Bar  Grill,FALSE,FALSE,Basavanagudi,North Indian Chinese Thai,11,Drinks  nightlife,Banashankari,216
+Fattoush,TRUE,TRUE,Bannerghatta Road,Arabian Biryani Chinese Middle Eastern Fast Food North Indian Mughlai Seafood,1,Buffet,Bannerghatta Road,41
+Empire Restaurant,TRUE,FALSE,Bannerghatta Road,North Indian Mughlai South Indian Chinese,750,Buffet,Bannerghatta Road,389
+Abhiruchi Hotel,TRUE,FALSE,Bannerghatta Road,Andhra Biryani North Indian Chinese,550,Buffet,Bannerghatta Road,313
+Barbeque Nation,FALSE,TRUE,JP Nagar,North Indian European Mediterranean BBQ Kebab,16,Buffet,Bannerghatta Road,452
+Sattvam,FALSE,FALSE,JP Nagar,North Indian South Indian,12,Buffet,Bannerghatta Road,425
+24Th Main,FALSE,TRUE,JP Nagar,North Indian South Indian Chinese,800,Buffet,Bannerghatta Road,397
+Zaitoon,TRUE,TRUE,JP Nagar,BBQ Arabian Chinese North Indian Desserts,1,Buffet,Bannerghatta Road,402
+Oye Amritsar,TRUE,TRUE,JP Nagar,North Indian,1,Buffet,Bannerghatta Road,379
+Melt  Eden Park,TRUE,TRUE,JP Nagar,North Indian Chinese Thai Mughlai Seafood,1,Buffet,Bannerghatta Road,384
+Spice Code,FALSE,TRUE,JP Nagar,South Indian North Indian Chinese Biryani,1,Buffet,Bannerghatta Road,374
+Sankranthi Veg Restaurant,TRUE,FALSE,BTM,South Indian North Indian Chinese,600,Buffet,Bannerghatta Road,255
+Cafe Kabana,FALSE,TRUE,Bannerghatta Road,Cafe Continental,700,Cafes,Bannerghatta Road,384
+Butterly,TRUE,FALSE,Bannerghatta Road,Cafe Bakery Beverages,450,Cafes,Bannerghatta Road,371
+Black Mug Cafe,TRUE,FALSE,Bannerghatta Road,Cafe,300,Cafes,Bannerghatta Road,345
+Refuel,TRUE,FALSE,Bannerghatta Road,Cafe Beverages,400,Cafes,Bannerghatta Road,345
+Wafl,TRUE,FALSE,Bannerghatta Road,Cafe Fast Food Desserts Beverages,400,Cafes,Bannerghatta Road,381
+Dreamcatcher,TRUE,FALSE,Bannerghatta Road,Cafe,600,Cafes,Bannerghatta Road,371
+Cafe Arabica,FALSE,FALSE,Bannerghatta Road,Cafe Bakery,700,Cafes,Bannerghatta Road,365
+Kalmane Koffees,FALSE,FALSE,Bannerghatta Road,Cafe,350,Cafes,Bannerghatta Road,361
+Brews N Bites,TRUE,FALSE,Bannerghatta Road,Chinese Fast Food Cafe Street Food Finger Food,650,Cafes,Bannerghatta Road,235
+Slate Cafe,TRUE,FALSE,JP Nagar,Cafe Sandwich Burger,600,Cafes,Bannerghatta Road,397
+Dialogues,FALSE,FALSE,JP Nagar,Cafe Continental,600,Cafes,Bannerghatta Road,393
+Mudpipe Cafe,TRUE,TRUE,JP Nagar,Cafe Continental North Indian,800,Cafes,Bannerghatta Road,42
+Tab  Take A Break,FALSE,FALSE,JP Nagar,Cafe Continental Italian,550,Cafes,Bannerghatta Road,397
+Biggies Burger N More,TRUE,FALSE,JP Nagar,Cafe Burger Beverages,650,Cafes,Bannerghatta Road,377
+Onesta,TRUE,TRUE,JP Nagar,Pizza Cafe Italian,600,Cafes,Bannerghatta Road,437
+Cafe Potpourri,TRUE,FALSE,JP Nagar,Cafe Sandwich North Indian Beverages Desserts,400,Cafes,Bannerghatta Road,345
+Vinaya Coffee Moments,TRUE,FALSE,JP Nagar,Burger Cafe Desserts Sandwich Italian,450,Cafes,Bannerghatta Road,354
+Cuppa,FALSE,FALSE,JP Nagar,Cafe Fast Food,550,Cafes,Bannerghatta Road,285
+Skytouch Le Cafe,TRUE,FALSE,JP Nagar,Cafe Italian Desserts,700,Cafes,Bannerghatta Road,345
+Woodee Pizza,TRUE,FALSE,JP Nagar,Cafe Pizza Fast Food Beverages,500,Cafes,Bannerghatta Road,236
+Sai Abhiruchi,TRUE,FALSE,BTM,Andhra North Indian Biryani,800,Delivery,Bannerghatta Road,355
+Capsicum Family Restaurant,TRUE,FALSE,BTM,Biryani North Indian,800,Delivery,Bannerghatta Road,358
+Easy Bites,TRUE,FALSE,JP Nagar,Fast Food Sandwich,300,Delivery,Bannerghatta Road,389
+Hiyar Majhe Kolkata,TRUE,FALSE,BTM,Bengali North Indian,400,Delivery,Bannerghatta Road,377
+Sri Lakshmi Dhaba,TRUE,FALSE,BTM,North Indian,250,Delivery,Bannerghatta Road,246
+Xo Belgian Waffle,TRUE,FALSE,BTM,Desserts Beverages,400,Delivery,Bannerghatta Road,437
+Swadista Aahar,TRUE,FALSE,BTM,South Indian North Indian Chinese Street Food,300,Delivery,Bannerghatta Road,4
+AlBek,TRUE,FALSE,JP Nagar,Biryani North Indian Charcoal Chicken Chinese Seafood Rolls,300,Delivery,Bannerghatta Road,363
+AniramS,TRUE,FALSE,JP Nagar,Chinese North Indian,500,Delivery,Bannerghatta Road,397
+Punjabi Nawabi,TRUE,FALSE,Bannerghatta Road,North Indian,400,Delivery,Bannerghatta Road,377
+Swad Punjab Da,TRUE,FALSE,BTM,North Indian,150,Delivery,Bannerghatta Road,394
+Bo Desi Meals,TRUE,FALSE,Bannerghatta Road,North Indian Mughlai Fast Food,500,Delivery,Bannerghatta Road,412
+Roti Wala,TRUE,FALSE,BTM,North Indian,300,Delivery,Bannerghatta Road,389
+Midnight Mania,TRUE,FALSE,BTM,Pizza Italian Beverages,700,Delivery,Bannerghatta Road,388
+KitchensJp Nagar,TRUE,FALSE,JP Nagar,Biryani Kerala Mughlai Street Food North Indian Chinese South Indian Andhra,400,Delivery,Bannerghatta Road,371
+Krishna Kuteera,TRUE,FALSE,Bannerghatta Road,South Indian North Indian Chinese,400,Delivery,Bannerghatta Road,384
+Apna Punjab,TRUE,FALSE,BTM,North Indian Chinese Fast Food,450,Delivery,Bannerghatta Road,342
+Paratha Junction,TRUE,FALSE,BTM,North Indian Chinese,300,Delivery,Bannerghatta Road,249
+Nellore Bhojanam,TRUE,FALSE,Bannerghatta Road,Andhra,250,Delivery,Bannerghatta Road,268
+Momoz,TRUE,FALSE,BTM,Chinese Momos,600,Delivery,Bannerghatta Road,373
+Kalingas,TRUE,FALSE,BTM,Oriya Fast Food,250,Delivery,Bannerghatta Road,371
+Kanteen The Eatery,TRUE,FALSE,Bannerghatta Road,North Indian,400,Delivery,Bannerghatta Road,371
+Kullad Cafe,TRUE,FALSE,BTM,North Indian Cafe Fast Food Beverages,200,Delivery,Bannerghatta Road,371
+Donne Biriyani House,TRUE,FALSE,JP Nagar,Biryani Andhra,350,Delivery,Bannerghatta Road,36
+Litti Twist,TRUE,FALSE,BTM,North Indian Bihari,300,Delivery,Bannerghatta Road,409
+Freshmenu,TRUE,FALSE,Bannerghatta Road,Healthy Food Chinese Biryani North Indian Continental Salad American Burger,450,Delivery,Bannerghatta Road,333
+Shanthi Sagar,TRUE,FALSE,JP Nagar,South Indian North Indian Chinese,400,Delivery,Bannerghatta Road,372
+Cakebuy,TRUE,FALSE,Bannerghatta Road,Desserts,350,Delivery,Bannerghatta Road,371
+Five Star Chicken,TRUE,FALSE,JP Nagar,Burger Fast Food Roast Chicken Finger Food,300,Delivery,Bannerghatta Road,355
+Corner House Ice Cream,TRUE,FALSE,Jayanagar,Ice Cream Desserts,400,Delivery,Bannerghatta Road,444
+Behrouz Biryani,TRUE,FALSE,Bannerghatta Road,Biryani,650,Delivery,Bannerghatta Road,384
+Abhiruchi Hotel,TRUE,FALSE,Bannerghatta Road,Andhra Biryani North Indian Chinese,550,Delivery,Bannerghatta Road,313
+Hind Ka Chulah,TRUE,FALSE,Bannerghatta Road,North Indian Biryani,600,Delivery,Bannerghatta Road,352
+Bohra Bohra Cafe,TRUE,FALSE,JP Nagar,Bohri,300,Delivery,Bannerghatta Road,33
+Pizza Hut,TRUE,FALSE,JP Nagar,Pizza,750,Delivery,Bannerghatta Road,304
+Subway,TRUE,FALSE,Bannerghatta Road,Salad Fast Food,600,Delivery,Bannerghatta Road,31
+Biryani Durbar,TRUE,FALSE,Bannerghatta Road,Biryani North Indian,400,Delivery,Bannerghatta Road,345
+Mahesh Friends Food Center,TRUE,FALSE,BTM,Chinese North Indian,300,Delivery,Bannerghatta Road,242
+Kabab Magic,TRUE,FALSE,Jayanagar,North Indian Kebab Chinese Fast Food,400,Delivery,Bannerghatta Road,332
+Burger King,TRUE,FALSE,Bannerghatta Road,Burger Fast Food Beverages,600,Delivery,Bannerghatta Road,37
+Alankrutha,TRUE,FALSE,BTM,Andhra Biryani North Indian Chinese,500,Delivery,Bannerghatta Road,365
+Paradise,TRUE,FALSE,JP Nagar,Biryani North Indian Kebab,800,Delivery,Bannerghatta Road,386
+Andhra Ruchulu,TRUE,TRUE,JP Nagar,Andhra North Indian,800,Delivery,Bannerghatta Road,382
+Adithya,TRUE,FALSE,JP Nagar,South Indian North Indian Chinese,300,Delivery,Bannerghatta Road,382
+Cheesiano Pizza,TRUE,TRUE,JP Nagar,Pizza Italian,700,Delivery,Bannerghatta Road,384
+Kfc,TRUE,FALSE,JP Nagar,Burger Fast Food,400,Delivery,Bannerghatta Road,339
+DandeS Hyderabad Biryani,TRUE,FALSE,Bannerghatta Road,Biryani Andhra North Indian,700,Delivery,Bannerghatta Road,329
+Upahara Bhavan,TRUE,FALSE,Bannerghatta Road,South Indian North Indian Chinese,300,Delivery,Bannerghatta Road,358
+Shuddh Desi Khana,TRUE,FALSE,Bannerghatta Road,North Indian,400,Delivery,Bannerghatta Road,393
+Sankranthi Veg Restaurant,TRUE,FALSE,BTM,South Indian North Indian Chinese,600,Delivery,Bannerghatta Road,255
+Aramane Donne Biriyani,TRUE,FALSE,BTM,Biryani Fast Food,300,Delivery,Bannerghatta Road,371
+Cafe Potpourri,TRUE,FALSE,JP Nagar,Cafe Sandwich North Indian Beverages Desserts,400,Delivery,Bannerghatta Road,345
+ManiS Dum Biryani,TRUE,FALSE,JP Nagar,Biryani Kebab,750,Delivery,Bannerghatta Road,377
+Amontron,TRUE,FALSE,BTM,Bengali,650,Delivery,Bannerghatta Road,371
+Birinz,TRUE,FALSE,BTM,Biryani Chinese Mughlai Fast Food Kebab,700,Delivery,Bannerghatta Road,407
+Just Shawarma,TRUE,FALSE,Bannerghatta Road,Arabian,300,Delivery,Bannerghatta Road,363
+Hyderabadi Bawarchi,TRUE,FALSE,Bannerghatta Road,North Indian Chinese Biryani,500,Delivery,Bannerghatta Road,281
+Fish Chain,TRUE,FALSE,JP Nagar,Seafood BBQ Biryani,250,Delivery,Bannerghatta Road,381
+Prasiddhi Food Corner,TRUE,FALSE,JP Nagar,Fast Food North Indian South Indian,200,Delivery,Bannerghatta Road,345
+Hyderabad Biryaani House,TRUE,FALSE,Bannerghatta Road,Biryani North Indian Chinese,550,Delivery,Bannerghatta Road,38
+Rajdhani Thali Restaurant,TRUE,TRUE,Bannerghatta Road,North Indian,900,Delivery,Bannerghatta Road,378
+Phew Play Hard Eat Wild,TRUE,TRUE,BTM,Continental Lebanese Middle Eastern North Indian Chinese BBQ Cafe,700,Delivery,Bannerghatta Road,371
+Chicken County Grand,TRUE,FALSE,Bannerghatta Road,North Indian Chinese,650,Delivery,Bannerghatta Road,371
+Roll Over,TRUE,FALSE,JP Nagar,Desserts Ice Cream Beverages Fast Food Sandwich,500,Delivery,Bannerghatta Road,393
+Savoury  Sea Shell Restaurant,TRUE,TRUE,Bannerghatta Road,Arabian North Indian Chinese Seafood Biryani Rolls Beverages,900,Delivery,Bannerghatta Road,371
+Firangi Bake,TRUE,FALSE,Bannerghatta Road,Mexican Italian,600,Delivery,Bannerghatta Road,384
+Zaitoon,TRUE,TRUE,JP Nagar,BBQ Arabian Chinese North Indian Desserts,1,Delivery,Bannerghatta Road,402
+Kundana,TRUE,FALSE,Bannerghatta Road,Andhra Biryani,800,Delivery,Bannerghatta Road,347
+The Shawarma Shop,TRUE,FALSE,BTM,Arabian,250,Delivery,Bannerghatta Road,397
+Faasos,TRUE,FALSE,Bannerghatta Road,North Indian Biryani Fast Food,500,Delivery,Bannerghatta Road,376
+Punjabi Food Corner,TRUE,FALSE,JP Nagar,North Indian Chinese Street Food,400,Delivery,Bannerghatta Road,255
+MealerIn,TRUE,FALSE,JP Nagar,North Indian Biryani,450,Delivery,Bannerghatta Road,392
+Pathaan Sir,TRUE,FALSE,BTM,Fast Food Rolls Momos,250,Delivery,Bannerghatta Road,341
+Cold Stone Creamery,TRUE,FALSE,Bannerghatta Road,Ice Cream Desserts,400,Delivery,Bannerghatta Road,391
+Amritsari Kulcha Land,TRUE,FALSE,JP Nagar,North Indian,300,Delivery,Bannerghatta Road,386
+Chokha Chowka,TRUE,FALSE,BTM,North Indian Chinese,400,Delivery,Bannerghatta Road,37
+Gorbandh,TRUE,FALSE,BTM,Fast Food North Indian,400,Delivery,Bannerghatta Road,388
+Grills  Rolls,TRUE,FALSE,JP Nagar,North Indian Chinese Fast Food Rolls Juices,400,Delivery,Bannerghatta Road,19
+Bathinda Junction,TRUE,FALSE,BTM,North Indian,600,Delivery,Bannerghatta Road,383
+Stories,TRUE,TRUE,JP Nagar,American Chinese Continental North Indian,12,Delivery,Bannerghatta Road,431
+Kanti Sweets,TRUE,FALSE,JP Nagar,Mithai Street Food,400,Delivery,Bannerghatta Road,377
+Seasons,TRUE,TRUE,Bannerghatta Road,North Indian South Indian Chinese Seafood Kerala Arabian Juices,1,Delivery,Bannerghatta Road,3
+Chung Wah,TRUE,FALSE,Bannerghatta Road,Chinese Thai Momos Vietnamese,800,Delivery,Bannerghatta Road,364
+Marwa Restaurant,TRUE,TRUE,Bannerghatta Road,North Indian Chinese Fast Food BBQ,600,Delivery,Bannerghatta Road,319
+Shanghai Court,TRUE,FALSE,Bannerghatta Road,Chinese Thai,700,Delivery,Bannerghatta Road,407
+Bhojohori Manna,TRUE,FALSE,JP Nagar,Bengali Mughlai,650,Delivery,Bannerghatta Road,377
+Hunger Bee,TRUE,FALSE,Bannerghatta Road,Biryani North Indian South Indian,500,Delivery,Bannerghatta Road,358
+Yum In My Tum,TRUE,FALSE,BTM,Chinese Continental Fast Food Healthy Food,300,Delivery,Bannerghatta Road,405
+Biryani Miya,TRUE,FALSE,JP Nagar,Biryani North Indian,600,Delivery,Bannerghatta Road,351
+Chulha Chauki Da Dhaba,TRUE,FALSE,JP Nagar,North Indian,800,Delivery,Bannerghatta Road,407
+Dreamcatcher,TRUE,FALSE,Bannerghatta Road,Cafe,600,Delivery,Bannerghatta Road,371
+Elegant Dining,TRUE,TRUE,Bannerghatta Road,Biryani North Indian Chinese,700,Delivery,Bannerghatta Road,332
+Waffle Head,TRUE,FALSE,BTM,Desserts Beverages Bakery Ice Cream,300,Delivery,Bannerghatta Road,384
+Basmati Delights,TRUE,FALSE,BTM,Biryani Chinese Mughlai Fast Food Kebab,500,Delivery,Bannerghatta Road,384
+Samosa Singh,TRUE,FALSE,JP Nagar,Street Food Fast Food Rolls Desserts,200,Delivery,Bannerghatta Road,384
+Cravings,TRUE,FALSE,Bannerghatta Road,North Indian Chinese Rolls,400,Delivery,Bannerghatta Road,345
+Matka,TRUE,FALSE,Bannerghatta Road,Biryani North Indian,500,Delivery,Bannerghatta Road,345
+Punjabi Swag,TRUE,FALSE,BTM,North Indian,500,Delivery,Bannerghatta Road,371
+Taco Bell,TRUE,FALSE,Bannerghatta Road,Mexican American Fast Food,600,Delivery,Bannerghatta Road,386
+MotherS Rasoi,TRUE,FALSE,Bannerghatta Road,North Indian Chinese Momos,250,Delivery,Bannerghatta Road,358
+Dosa Bazaar,TRUE,FALSE,JP Nagar,Street Food South Indian,200,Delivery,Bannerghatta Road,379
+The Bong Palate,TRUE,FALSE,BTM,Bengali North Indian Chinese,300,Delivery,Bannerghatta Road,358
+Upahara Darshini,TRUE,FALSE,Jayanagar,South Indian North Indian Chinese,400,Delivery,Bannerghatta Road,381
+Bikaner Jn,TRUE,FALSE,JP Nagar,Rajasthani,300,Delivery,Bannerghatta Road,371
+KakalKai Ruchi,TRUE,FALSE,JP Nagar,North Indian South Indian Chinese,500,Delivery,Bannerghatta Road,349
+Calorie Express,TRUE,FALSE,BTM,Healthy Food,450,Delivery,Bannerghatta Road,332
+Bangalore Box,TRUE,TRUE,BTM,Asian Continental Finger Food,15,Delivery,Bannerghatta Road,398
+Ovenstory Pizza,TRUE,FALSE,Bannerghatta Road,Pizza,750,Delivery,Bannerghatta Road,378
+Slate Cafe,TRUE,FALSE,JP Nagar,Cafe Sandwich Burger,600,Delivery,Bannerghatta Road,397
+Chavadi,TRUE,TRUE,Bannerghatta Road,Continental North Indian Pizza Italian,12,Delivery,Bannerghatta Road,435
+Nanna Munna Paratha House,TRUE,FALSE,BTM,North Indian,300,Delivery,Bannerghatta Road,384
+Cucumber Town,TRUE,FALSE,BTM,Kerala North Indian,600,Delivery,Bannerghatta Road,41
+Oye Amritsar,TRUE,TRUE,JP Nagar,North Indian,1,Delivery,Bannerghatta Road,379
+Brewsky,TRUE,TRUE,JP Nagar,Continental American,16,Delivery,Bannerghatta Road,429
+Chefeana,TRUE,FALSE,Bannerghatta Road,North Indian,400,Delivery,Bannerghatta Road,384
+Bangaliana,TRUE,FALSE,Bannerghatta Road,Bengali,600,Delivery,Bannerghatta Road,33
+Gud Dhani,TRUE,FALSE,BTM,Rajasthani,500,Delivery,Bannerghatta Road,384
+McdonaldS,TRUE,FALSE,Bannerghatta Road,Burger Fast Food,500,Delivery,Bannerghatta Road,329
+Wafl,TRUE,FALSE,Bannerghatta Road,Cafe Fast Food Desserts Beverages,400,Delivery,Bannerghatta Road,381
+Deejas Kitchen,TRUE,FALSE,Bannerghatta Road,South Indian Kerala,400,Delivery,Bannerghatta Road,371
+Pancuzzi,TRUE,FALSE,JP Nagar,Cafe Beverages Desserts,600,Delivery,Bannerghatta Road,41
+ZhangS  Chinese Restaurant,TRUE,FALSE,JP Nagar,Chinese Momos,700,Delivery,Bannerghatta Road,397
+Shagun Sweets  Foods,TRUE,FALSE,BTM,Mithai North Indian Street Food Chinese,400,Delivery,Bannerghatta Road,321
+DevS Gugababa,TRUE,FALSE,BTM,Bengali North Indian Chinese,500,Delivery,Bannerghatta Road,315
+Oogway Express,TRUE,FALSE,JP Nagar,Chinese Thai Momos,600,Delivery,Bannerghatta Road,371
+Pizza Stop,TRUE,FALSE,JP Nagar,Pizza Italian,600,Delivery,Bannerghatta Road,334
+The Egg Factory,TRUE,FALSE,JP Nagar,Continental American,750,Delivery,Bannerghatta Road,393
+Chow San,TRUE,FALSE,Bannerghatta Road,Chinese Thai Momos,500,Delivery,Bannerghatta Road,257
+Momo Jojo,TRUE,FALSE,JP Nagar,Chinese Tibetan Momos,300,Delivery,Bannerghatta Road,423
+Simply Indian,TRUE,TRUE,Bannerghatta Road,North Indian Chinese Seafood Biryani Mangalorean,800,Delivery,Bannerghatta Road,371
+RithikaS Kitchen,TRUE,FALSE,JP Nagar,Biryani South Indian Andhra,350,Delivery,Bannerghatta Road,358
+Punjabi Times,TRUE,TRUE,Bannerghatta Road,North Indian,1,Delivery,Bannerghatta Road,397
+Chai Point,TRUE,FALSE,Bannerghatta Road,Tea Beverages Fast Food,250,Delivery,Bannerghatta Road,367
+Cravy Wings,TRUE,FALSE,Bannerghatta Road,American Burger Fast Food,400,Delivery,Bannerghatta Road,411
+Funky Punjab,TRUE,FALSE,JP Nagar,North Indian Chinese,500,Delivery,Bannerghatta Road,365
+Punjabi Corner,TRUE,FALSE,Bannerghatta Road,North Indian Chinese,250,Delivery,Bannerghatta Road,371
+Refuel,TRUE,FALSE,Bannerghatta Road,Cafe Beverages,400,Delivery,Bannerghatta Road,345
+Biggies Burger N More,TRUE,FALSE,JP Nagar,Cafe Burger Beverages,650,Delivery,Bannerghatta Road,377
+Zeeshan,TRUE,FALSE,JP Nagar,North Indian Mughlai Biryani Rolls,600,Delivery,Bannerghatta Road,296
+Ambara Gardenia,TRUE,TRUE,Bannerghatta Road,Andhra North Indian Chinese Seafood,800,Delivery,Bannerghatta Road,358
+More Pizza,TRUE,FALSE,JP Nagar,Pizza,450,Delivery,Bannerghatta Road,358
+Butterly,TRUE,FALSE,Bannerghatta Road,Cafe Bakery Beverages,450,Delivery,Bannerghatta Road,371
+Crafted Plate,TRUE,TRUE,JP Nagar,Cafe Asian Burger Continental Italian Salad,600,Delivery,Bannerghatta Road,41
+ShettyS Kitchen,TRUE,FALSE,Bannerghatta Road,Mangalorean,600,Delivery,Bannerghatta Road,345
+Machali Port,TRUE,FALSE,JP Nagar,Mangalorean Seafood North Indian,750,Delivery,Bannerghatta Road,371
+Garma Garam,TRUE,FALSE,Bannerghatta Road,North Indian Chinese Biryani Rolls,350,Delivery,Bannerghatta Road,281
+The Coastal Crew By Fujian On 24Th,TRUE,TRUE,JP Nagar,Chinese Thai Seafood North Indian Momos,11,Delivery,Bannerghatta Road,41
+Bib  Breakfast In The Box,TRUE,FALSE,Bannerghatta Road,American Sandwich,600,Delivery,Bannerghatta Road,358
+Tandoor And Spice,TRUE,FALSE,JP Nagar,North Indian Chinese Biryani Hyderabadi,550,Delivery,Bannerghatta Road,384
+Rock Stone Ice Cream Factory,TRUE,FALSE,BTM,Ice Cream,230,Delivery,Bannerghatta Road,383
+Paratha Plaza,TRUE,FALSE,JP Nagar,North Indian,250,Delivery,Bannerghatta Road,341
+Namma Kudla,TRUE,FALSE,JP Nagar,Mangalorean North Indian Chinese Seafood,400,Delivery,Bannerghatta Road,384
+Wangs Kitchen,TRUE,FALSE,Bannerghatta Road,Chinese,1,Delivery,Bannerghatta Road,227
+Spice Up,TRUE,FALSE,JP Nagar,Chinese,600,Delivery,Bannerghatta Road,358
+Tempteys,TRUE,FALSE,BTM,Beverages,500,Delivery,Bannerghatta Road,405
+Crumb Together,TRUE,TRUE,JP Nagar,Continental Finger Food North Indian Chinese,12,Delivery,Bannerghatta Road,397
+The Foodyz,TRUE,FALSE,JP Nagar,North Indian Chinese,500,Delivery,Bannerghatta Road,343
+Black Mug Cafe,TRUE,FALSE,Bannerghatta Road,Cafe,300,Delivery,Bannerghatta Road,345
+Meat And Eat,TRUE,FALSE,JP Nagar,Fast Food Burger,500,Delivery,Bannerghatta Road,323
+Vinaya Coffee Moments,TRUE,FALSE,JP Nagar,Burger Cafe Desserts Sandwich Italian,450,Delivery,Bannerghatta Road,354
+Nagarjuna,FALSE,FALSE,Bannerghatta Road,Andhra Biryani,800,Delivery,Bannerghatta Road,42
+Laddoos,TRUE,FALSE,BTM,North Indian Street Food Mithai,250,Delivery,Bannerghatta Road,271
+New Prashanth Hotel,TRUE,FALSE,JP Nagar,South Indian Biryani Chinese North Indian,750,Delivery,Bannerghatta Road,328
+Waffle Stories,TRUE,FALSE,BTM,Desserts Beverages,300,Delivery,Bannerghatta Road,38
+Late Night,TRUE,FALSE,Kumaraswamy Layout,North Indian Chinese,500,Delivery,Bannerghatta Road,311
+Waffle Walle,TRUE,FALSE,Bannerghatta Road,Desserts Belgian Beverages,500,Delivery,Bannerghatta Road,431
+Dakshin Cafe,TRUE,FALSE,JP Nagar,South Indian,100,Delivery,Bannerghatta Road,397
+Shake It Off,TRUE,FALSE,JP Nagar,Beverages Fast Food,600,Delivery,Bannerghatta Road,406
+Two Friends Cauldron,TRUE,TRUE,JP Nagar,Continental Italian American,700,Delivery,Bannerghatta Road,397
+Bun Town,TRUE,FALSE,BTM,Cafe Bakery,500,Delivery,Bannerghatta Road,384
+Mango Tree The Beer Garden,TRUE,TRUE,JP Nagar,North Indian Chinese Continental,12,Delivery,Bannerghatta Road,397
+The Jade Kitchen,TRUE,FALSE,JP Nagar,Chinese Thai,400,Delivery,Bannerghatta Road,382
+Drunken Monkey,TRUE,FALSE,Bannerghatta Road,Beverages Fast Food,400,Delivery,Bannerghatta Road,389
+Woodee Pizza,TRUE,FALSE,JP Nagar,Cafe Pizza Fast Food Beverages,500,Delivery,Bannerghatta Road,236
+Funky Punjab,TRUE,FALSE,BTM,North Indian Chinese,400,Delivery,Bannerghatta Road,365
+Intalia,TRUE,FALSE,Bannerghatta Road,Pizza Italian,800,Delivery,Bannerghatta Road,332
+Hotel Aradhana,TRUE,FALSE,Bannerghatta Road,North Indian,300,Delivery,Bannerghatta Road,345
+The Chervil,TRUE,FALSE,JP Nagar,North Indian Continental,1,Delivery,Bannerghatta Road,403
+New Royal Treat,TRUE,FALSE,Bannerghatta Road,North Indian Chinese,350,Delivery,Bannerghatta Road,229
+I Cool,TRUE,FALSE,JP Nagar,Juices Fast Food,150,Delivery,Bannerghatta Road,384
+Asha Sweets Centre,TRUE,FALSE,JP Nagar,Fast Food,250,Delivery,Bannerghatta Road,381
+Stoned Monkey,TRUE,FALSE,JP Nagar,Desserts Ice Cream,500,Delivery,Bannerghatta Road,394
+Vinaya Cafe,TRUE,FALSE,JP Nagar,South Indian Street Food Juices,200,Delivery,Bannerghatta Road,345
+World Of Waffles,TRUE,FALSE,JP Nagar,Desserts,400,Delivery,Bannerghatta Road,371
+Oottupura Family Restaurant,TRUE,FALSE,Bannerghatta Road,Kerala South Indian Biryani,400,Delivery,Bannerghatta Road,306
+Vyanjan,TRUE,FALSE,BTM,North Indian Street Food,300,Delivery,Bannerghatta Road,371
+WatsonS,TRUE,TRUE,JP Nagar,Finger Food Chinese Continental,13,Delivery,Bannerghatta Road,395
+Chicken Man,TRUE,TRUE,JP Nagar,Roast Chicken Burger,400,Delivery,Bannerghatta Road,352
+Nandhana Palace,FALSE,TRUE,Bannerghatta Road,Andhra Biryani North Indian Chinese,800,Delivery,Bannerghatta Road,403
+On The Nose,TRUE,FALSE,BTM,Cafe Italian Mexican Chinese,600,Delivery,Bannerghatta Road,358
+Udupi Thaja Thindi,TRUE,FALSE,BTM,North Indian South Indian Chinese Fast Food,250,Delivery,Bannerghatta Road,242
+Baba Ka Dhaba,TRUE,FALSE,BTM,North Indian,400,Delivery,Bannerghatta Road,345
+Natural Ice Cream,FALSE,FALSE,Bannerghatta Road,Ice Cream Desserts,150,Delivery,Bannerghatta Road,427
+Biriyani Mane,TRUE,FALSE,Jayanagar,Biryani Chinese North Indian,700,Delivery,Bannerghatta Road,351
+ChurchillS,TRUE,TRUE,JP Nagar,North Indian Continental,11,Delivery,Bannerghatta Road,397

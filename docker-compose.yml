@@ -1,0 +1,11 @@
+version: '1.0'
+
+services:
+  rrprediction:
+    container_name: rrprediction
+    image: devansh890/rrprediction
+    ports:
+      - "5000:5000"
+    build:
+      context: .
+      dockerfile: Dockerfile
